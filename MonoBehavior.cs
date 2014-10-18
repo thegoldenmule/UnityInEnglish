@@ -1,4 +1,7 @@
-public class MonoBehavior : UnityEngine.MonoBehaviour
+namespace UnityEngine
 {
-  // proper English
+  public class MonoBehavior : MonoBehaviour
+  {
+    // proper English codes
+  }
 }
