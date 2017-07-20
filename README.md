@@ -7,6 +7,11 @@ How often have you misspelled *MonoBehaviour*? If you spell it like that, then t
 
 Now you can finally spell it correctly! And with no known side effects! Possibly the most bug free repo on GitHub!
 
+Reviews
+=======
+
+"You're doing God's work." - Author of [ProShot](http://www.riseupgames.com/proshot/) for iOS, Android and Windows Phone.
+
 Roadmap:
 =======
 * Unit Tests
